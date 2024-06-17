@@ -20,6 +20,7 @@
   - [Inventing an app for blind and deaf people](https://github.com/Arakii0/SUTD-WTH-)
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="ArakiYeo | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />[linkedin]
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/arakiyeo
