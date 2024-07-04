@@ -11,7 +11,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Pending]
+- [Setting Up A PaloAlto Next-Generation Firewall and enabling VPN between 2 Companies]
+- [Setting Up Own Vulnerable Home Lab]
 
 
 <h2>👨‍💻 Hackathons And CTFs:</h2>
