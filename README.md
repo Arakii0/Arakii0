@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Python</b>
-  - Pending
+  - [Hashing project](https://github.com/Arakii0/All-Bout-HAsh)
 - <b>C</b>
   - Pending
 - <b>C#</b>
