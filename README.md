@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Hashing project](https://github.com/Arakii0/All-Bout-HAsh)
 - <b>C</b>
-  - [Shell Enumerator](https://github.com/Arakii0/Shell)
+  - [Building my own Shell](https://github.com/Arakii0/Shell)
 - <b>C#</b>
   - [Ice Cream Software](https://github.com/Arakii0/IceCream)
 
