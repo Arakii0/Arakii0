@@ -12,7 +12,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Setting Up A PaloAlto Next-Generation Firewall and enabling VPN between 2 Companies]
+- [Analysing a executable spyware and a malware word document]
 - [Setting Up Own Vulnerable Home Lab]
+- [Conducted Web Application Bug Bounty]
 
 
 <h2>👨‍💻 Hackathons And CTFs:</h2>
