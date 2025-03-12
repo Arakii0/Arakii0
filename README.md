@@ -16,7 +16,7 @@
 - [Analysing a executable spyware and a malware word document]
 - [Setting Up Own Vulnerable Home Lab]
 - [Conducted Web Application Bug Bounty]
-- [Applied and coded a python machine learning model to classify malicious websites]
+- [Applied and coded a python machine learning model to classify malicious websites](https://github.com/Arakii0/WebsiteML)
 - [Constructed an Information Risk Management Plan and a report on a fictitious banking company]
 - [Performed digital forensics on a disk using Encase]
 - [Setting up a SIEM using datadog, suricata and cisco endpoint security with alerts]
