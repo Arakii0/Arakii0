@@ -40,4 +40,4 @@
 [<img align="left" alt="ArakiYeo | HTB" width="22px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3270009/hackthebox-icon-md.png" />][HackTheBox]
 
 [linkedin]: https://linkedin.com/in/arakiyeo
-[HackTheBox] : https://app.hackthebox.com/users751712
+[HackTheBox]: https://app.hackthebox.com/users751712
