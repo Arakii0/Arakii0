@@ -26,6 +26,13 @@
 
 - <b>HTML,CSS and Python</b>
   - [Inventing an app for blind and deaf people](https://github.com/Arakii0/SUTD-WTH-)
+- <b>CTFs Joined and Competed In</b>
+  - HackTheBox CyberApocalypse
+    - 2022 (Rank:789/7024, Points:7/61)
+    - 2023 (Rank:1338/6483, Solved:15/74)
+    - 2024 (Rank:1151/5694, Solved:15/67)
+  - DownunderCTF5 2024 (Rank:574/2134, Solved:10/66)
+  - YBNCTF 2024 (Rank:35, Points:13451)
 
 <h2> 🤳 Connect with me:</h2>
 
